@@ -32,6 +32,8 @@ second_banner_cost = 4 * 3
 total_cost = 17
 ```
 
+In this case, using two banner the cost is 17 and one banner 20, thus the lowest cost is 17
+
 Another test cases:
 
 ```bash
